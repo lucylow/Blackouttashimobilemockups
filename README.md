@@ -24,11 +24,6 @@ npm install
 npx expo start --clear
 ```
 
-**Live Demo:** [tashi-mobile.vercel.app](https://tashi-mobile.vercel.app)  
-**iOS TestFlight:** `tashi-mobile://testflight.apple.com`  
-**Android APK:** [Download Production APK](https://github.com/lucylow/tashi-mobile/releases/latest)  
-**API Docs:** [docs.tashi.network/mobile](https://docs.tashi.network/mobile)
-
 ***
 
 ## Table of Contents
