@@ -8,8 +8,6 @@
 ## Blockchain-Native Swarm Coordination & Mission Control Platform
 
 > **License:** MIT  
-> **Tech Stack:** React Native | TypeScript | Zustand | React Three Fiber | YOLOv8 | ROS2 Bridge | WebRTC | Tashi Vertex SDK  
-> **Platforms:** iOS 16.0+ | Android 10+ | Web PWA  
 > **APK Size:** 28.2 MB (production bundle)  
 > **Bundle Time:** 1.8s cold start  
 
