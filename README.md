@@ -1,10 +1,4 @@
-
-  # TASHI blockchain
-
-  This is a code bundle for TASHI blockchain. The original project is available at https://www.figma.com/design/dnL8TthmT2geOgBMrvq8Uc/TASHI-blockchain.
-
-
- # Tashi Mobile  
+# Tashi Mobile  
 ## Blockchain-Native Swarm Coordination & Mission Control Platform
 
 > **License:** MIT  
